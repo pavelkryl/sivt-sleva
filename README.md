@@ -17,8 +17,8 @@ zlevni(45, 20)
 # vrátí 90
 zlevni(100)
 
-# vrátí 1490
-zlevni(1490,0)
+# vrátí 1490.5
+zlevni(1490.5,0)
 ```
 
 # Co hodnotím
