@@ -26,3 +26,13 @@ zlevni(1490.5,0)
 - linter mypy nesmí ukazovat žádnou chybu (čistota kódu)
 - správnost implementace: dodržení zadání
 - čitelnost vašeho kódu
+
+# Otázky
+
+Odpovídejte přímo do tohoto README:
+
+1. Jak nastavím proměnnou shellu `JMENO` na `Karel`?
+
+2. Jak si hodnotu takové proměnné v bashi vypíšu?
+
+3. Jak přidám do proměnné shellu `PATH` další cestu `/opt/google-chrome/bin`.
