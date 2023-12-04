@@ -2,7 +2,7 @@
 
 Do souboru `sleva.py` napište v Pythonu funkci `zlevni` tak, aby na vstupu měla:
 - povinný parametr `cena`: cena, ze které se bude zlevňovat
-- parametr `procento`: může nabývat hodnoty 0-99, celočíselný
+- parametr `procento`: může nabývat hodnoty 0-99, celočíselný, budeme optimisticky očekávat, že toto uživatel funkce vždy dodrží (nedělejte žádné extra kontroly)
 
 Na výstupu bude funkce vracet zlevněnou cenu.
 
